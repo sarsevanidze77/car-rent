@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Koenigsegg",
+    "type": "Sport",
+    "pricePerDay": 99,
+    "oldPrice": 120,
+    "fuel": "90L",
+    "gear": "Manual",
+    "people": 2,
+    "favorite": true,
+    "image": "/images/Koenigsegg.png"
+  },
+  {
+    "id": 2,
+    "name": "Nissan GT-R",
+    "type": "Sport",
+    "pricePerDay": 80,
+    "oldPrice": 100,
+    "fuel": "80L",
+    "gear": "Manual",
+    "people": 2,
+    "favorite": false,
+    "image": "/images/Nissan GT-R.png"
+  },
+  {
+    "id": 3,
+    "name": "Rolls-Royce",
+    "type": "Sport",
+    "pricePerDay": 96,
+    "oldPrice": null,
+    "fuel": "70L",
+    "gear": "Manual",
+    "people": 4,
+    "favorite": false,
+    "image": "/images/Rolls-Royce.png"
+  },
+  {
+    "id": 4,
+    "name": "All New Rush",
+    "type": "SUV",
+    "pricePerDay": 72,
+    "oldPrice": 80,
+    "fuel": "70L",
+    "gear": "Manual",
+    "people": 6,
+    "favorite": false,
+    "image": "/images/All New Rush.png"
+  },
+  {
+    "id": 5,
+    "name": "CR-V",
+    "type": "SUV",
+    "pricePerDay": 80,
+    "oldPrice": null,
+    "fuel": "80L",
+    "gear": "Manual",
+    "people": 6,
+    "favorite": true,
+    "image": "/images/CR-V.png"
+  },
+  {
+    "id": 6,
+    "name": "Pajero Sport",
+    "type": "SUV",
+    "pricePerDay": 90,
+    "oldPrice": 100,
+    "fuel": "90L",
+    "gear": "Manual",
+    "people": 6,
+    "favorite": false,
+    "image": "/images/Pajero Sport.png"
+  }
+]
